@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Balot
+//  Locationyy
 //
-//  Created by Yasser Alanazi on 25/08/2018.
-//  Copyright © 2018 Yasser Alanazi. All rights reserved.
+//  Created by Yasser alanazi on 30/08/1440 AH.
+//  Copyright © 1440 yas3nzi.com. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
